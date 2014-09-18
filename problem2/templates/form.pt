@@ -1,0 +1,11 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  </head>
+  <form method="POST" action="/upload">
+    <div>
+      <input type="file" name="arquivo"/>
+    </div>
+    <input type="submit" value="Submit" name="submit"/>
+  </form>
+</html>
