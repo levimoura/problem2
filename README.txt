@@ -1,6 +1,6 @@
 How to run the software
 
-To run the software you should start the server e go to your browser and localhost:8080/result
+To run the software you should start the server e go to your browser and 'meudominio':8080/result
 I was unable to set a form to make the file upload without the use of an external server so you
 have to put the file with the name 'arquivo.txt' under the problem2 folder.
 
